@@ -19,6 +19,7 @@ class SplashAnimation extends StatelessWidget {
               shape: BoxShape.circle,
               color: Colors.blue,
             ),
+
           ),
         ),
       ),
